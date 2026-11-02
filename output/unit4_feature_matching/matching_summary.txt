@@ -1,0 +1,10 @@
+FEATURE MATCHING UNDER ROTATION
+===============================
+Photo 1: food_photo_1.jpeg
+Photo 2: food_photo_2.jpeg
+Rotation angle: 30 degrees
+Keypoints in photo 1: 7854
+Keypoints in photo 2: 6229
+Keypoints in rotated photo 1: 9606
+Good matches before rotation: 217
+Good matches after rotation: 270
